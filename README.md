@@ -1,5 +1,8 @@
 # cot-4500-intro
 Intro Assignment for COT4500
+
+
+
 if __name__ == '__main__':
     # matrix 1
     matrix = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
